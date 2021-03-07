@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.a1b7b015.chunk.css",
-    "main.js": "/static/js/main.0b194353.chunk.js",
-    "main.js.map": "/static/js/main.0b194353.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.510409cd.chunk.css": "/static/css/2.510409cd.chunk.css",
-    "static/js/2.c459719d.chunk.js": "/static/js/2.c459719d.chunk.js",
-    "static/js/2.c459719d.chunk.js.map": "/static/js/2.c459719d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2f59ec8b53342a3d1835a00695e95272.js": "/precache-manifest.2f59ec8b53342a3d1835a00695e95272.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.510409cd.chunk.css.map": "/static/css/2.510409cd.chunk.css.map",
-    "static/css/main.a1b7b015.chunk.css.map": "/static/css/main.a1b7b015.chunk.css.map",
-    "static/media/ecofriendly.webp": "/static/media/ecofriendly.be6cd5f3.webp",
-    "static/media/instagram.webp": "/static/media/instagram.fc2b438c.webp",
-    "static/media/opensource.webp": "/static/media/opensource.95bf7307.webp"
+    "main.css": "/github-pages-saza-agriculture/static/css/main.a1b7b015.chunk.css",
+    "main.js": "/github-pages-saza-agriculture/static/js/main.dbfd34cf.chunk.js",
+    "main.js.map": "/github-pages-saza-agriculture/static/js/main.dbfd34cf.chunk.js.map",
+    "runtime~main.js": "/github-pages-saza-agriculture/static/js/runtime~main.2ae99bbd.js",
+    "runtime~main.js.map": "/github-pages-saza-agriculture/static/js/runtime~main.2ae99bbd.js.map",
+    "static/css/2.510409cd.chunk.css": "/github-pages-saza-agriculture/static/css/2.510409cd.chunk.css",
+    "static/js/2.c459719d.chunk.js": "/github-pages-saza-agriculture/static/js/2.c459719d.chunk.js",
+    "static/js/2.c459719d.chunk.js.map": "/github-pages-saza-agriculture/static/js/2.c459719d.chunk.js.map",
+    "index.html": "/github-pages-saza-agriculture/index.html",
+    "precache-manifest.419718b040f94cba121cdbb478526fe2.js": "/github-pages-saza-agriculture/precache-manifest.419718b040f94cba121cdbb478526fe2.js",
+    "service-worker.js": "/github-pages-saza-agriculture/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/github-pages-saza-agriculture/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.a1b7b015.chunk.css.map": "/github-pages-saza-agriculture/static/css/main.a1b7b015.chunk.css.map",
+    "static/media/ecofriendly.webp": "/github-pages-saza-agriculture/static/media/ecofriendly.be6cd5f3.webp",
+    "static/media/instagram.webp": "/github-pages-saza-agriculture/static/media/instagram.fc2b438c.webp",
+    "static/media/opensource.webp": "/github-pages-saza-agriculture/static/media/opensource.95bf7307.webp"
   }
 }
